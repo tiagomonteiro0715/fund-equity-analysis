@@ -1,4 +1,4 @@
-# fund-equity-analysis
+# linear-regression-tensorflow
 ![stock market image](https://www.incomeinvestors.com/wp-content/uploads/2017/11/STWD-Stock.jpg)
 
 
