@@ -1,6 +1,7 @@
 # linear-regression-tensorflow
 ![stock market image](https://www.incomeinvestors.com/wp-content/uploads/2017/11/STWD-Stock.jpg)
 
+add also just python code
 
 https://x-team.com/blog/how-to-write-a-great-readme/
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
