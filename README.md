@@ -1,26 +1,42 @@
 # linear-regression-tensorflow
+
 ![stock market image](https://www.incomeinvestors.com/wp-content/uploads/2017/11/STWD-Stock.jpg)
 
-add also just python code
-
-https://x-team.com/blog/how-to-write-a-great-readme/
-https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
-https://www.welcometothejungle.com/en/articles/btc-readme-documentation-best-practices
-
-This project essencially explores, thouth an linear regression model made in tensorflow. A combination of two parameters of the csv file thet the
-[norgegion fund](https://www.nbim.no/)
-disponibilizes to show their fund equity. The creation of the line that best suits the relation between the ownership and the amout of dollares invested
-
-
-Note: this is 2 set of values that absolutily have nno relationships with
-equity file that was used was from 26/03/2021
-link to database: https://www.nbim.no/en/the-fund/investments/#/2020/investments/equities
-
-
-install dependencies:
-
+This project essencially explores two datasets with a linear regression model. In which, unfortunatly, one of the anaysis went terribly wrong 
 
 -----
+
+
+Install dependencies:
+
+Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
+
+´´´
+pip install --upgrade --user pip
+
+pip install pipenv
+´´´
+
+Create and activate a virtual enviroment
+
+´´´
+pipenv shell
+´´´
+
+Install necessary modules
+
+´´´
+pipenv install pandas==1.2.3 numpy==1.2 tensorflow==2.4 matplotlib==3.3 sklearn== 0.2.2pipenv insta
+´´´
+
+Install modules to make sure the code runs on a jupyter notebook
+
+´´´
+pipenv install ipykernel
+python -m ipykernel install --user --name ENVNAME --display-name "Python (whatever you want to call it)"
+´´´
+-----
+
 started on 06/03/2021
-Ended on 
-Archived on
+Ended on 31/03/2021
+Archived on 31/03/2021
