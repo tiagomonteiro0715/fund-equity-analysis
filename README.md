@@ -11,11 +11,13 @@ Install dependencies:
 
 Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 
-'''
+```
+
 pip install --upgrade --user pip
 
 pip install pipenv
-'''
+
+```
 
 Create and activate a virtual enviroment
 
