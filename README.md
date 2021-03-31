@@ -12,31 +12,29 @@ Install dependencies:
 Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 
 ```
-
 pip install --upgrade --user pip
 
 pip install pipenv
-
 ```
 
 Create and activate a virtual enviroment
 
-´´´
+```
 pipenv shell
-´´´
+```
 
 Install necessary modules
 
-´´´
+```
 pipenv install pandas==1.2.3 numpy==1.2 tensorflow==2.4 matplotlib==3.3 sklearn== 0.2.2pipenv insta
-´´´
+```
 
 Install modules to make sure the code runs on a jupyter notebook
 
-´´´
+```
 pipenv install ipykernel
 python -m ipykernel install --user --name ENVNAME --display-name "Python (whatever you want to call it)"
-´´´
+```
 -----
 
 Started on 06/03/2021
