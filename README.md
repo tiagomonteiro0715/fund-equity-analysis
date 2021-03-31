@@ -11,11 +11,11 @@ Install dependencies:
 
 Upgrade pip and install [pipenv](https://pipenv.pypa.io/en/latest/)
 
-´´´
+'''
 pip install --upgrade --user pip
 
 pip install pipenv
-´´´
+'''
 
 Create and activate a virtual enviroment
 
@@ -37,6 +37,8 @@ python -m ipykernel install --user --name ENVNAME --display-name "Python (whatev
 ´´´
 -----
 
-started on 06/03/2021
+Started on 06/03/2021
+
 Ended on 31/03/2021
+
 Archived on 31/03/2021
