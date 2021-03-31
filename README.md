@@ -26,7 +26,7 @@ pipenv shell
 Install necessary modules
 
 ```
-pipenv install pandas==1.2.3 numpy==1.2 tensorflow==2.4 matplotlib==3.3 sklearn== 0.2.2pipenv insta
+pipenv install pandas==1.2.3 numpy==1.2 tensorflow==2.4 matplotlib==3.3 sklearn==0.2.2
 ```
 
 Install modules to make sure the code runs on a jupyter notebook
